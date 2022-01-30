@@ -1,7 +1,7 @@
 # Data 410 Project 1
 
 ## Hello World!
-![screen-gif](https://user-images.githubusercontent.com/74326062/151677042-08d22bcd-049b-43c1-bef5-98c25029fddd.png)
+![image](https://user-images.githubusercontent.com/74326062/151718826-f75a0811-35ee-4fdb-a315-53e8a55cb17c.jpeg)
 
 ## Sum to product formula:
 
