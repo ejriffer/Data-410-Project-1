@@ -5,4 +5,4 @@
 
 ## Sum to Product Formula:
 
-$ sin(x) - sin(y) = 2sin((x+y)/2) * 2cos((x-y)/2) $
+\[ x^n + y^n = z^n \]
