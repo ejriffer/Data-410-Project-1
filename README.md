@@ -13,8 +13,6 @@
   METERS_PER_KM = 1000
 
   def convert_to_kilometers(meters):
-    '''Convert an input in meters to kilometers'''
-    #be sure to use the constant
     km = meters/METERS_PER_KM
     return km
 ```
