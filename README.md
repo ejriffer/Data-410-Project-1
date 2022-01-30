@@ -5,4 +5,4 @@
 
 ## Sum to Product Formula:
 
-![equation][\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}]
+![equation](\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
