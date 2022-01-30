@@ -3,11 +3,11 @@
 ## Hello World!
 ![screen-gif](https://user-images.githubusercontent.com/74326062/151677042-08d22bcd-049b-43c1-bef5-98c25029fddd.png)
 
-## Sum to Product Formula:
+## Sum to product formula:
 
 <img src="https://latex.codecogs.com/svg.image?sin(x)*cos(x)&space;=&space;\frac{sin(x&plus;y)&plus;sin(x-y)}{2}" title="sin(x)*cos(x) = \frac{sin(x+y)+sin(x-y)}{2}" />
 
-## code to convert meters to km
+## Code to convert meters to kilometers:
 
 ```
   METERS_PER_KM = 1000
