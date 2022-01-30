@@ -5,4 +5,4 @@
 
 ## Sum to Product Formula:
 
-\[ x^n + y^n = z^n \]
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}]
